@@ -6,6 +6,7 @@ print("Hello world")
 
 print("Now that that's out the the way lets make a plot")
 
+print("Stars are super cool")
 
 # Make a plot
 N = 21
